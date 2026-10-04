@@ -6,5 +6,5 @@ spec:
   selector:
     app: online-shop
   ports:
-  - port: 3000
+  - port: 3400
     targetPort: 3000
